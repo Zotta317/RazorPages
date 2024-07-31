@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Zotta\\Project\\Employee managment\\",
+  "WorkspaceRootPath": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|c:\\users\\zotta\\project\\employee managment\\employee managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|c:\\users\\zotta\\projects\\qrcodeproject\\razorpages\\employee managment\\employee managment\\pages\\employee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|solutionrelative:employee managment\\pages\\employee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|c:\\users\\zotta\\projects\\qrcodeproject\\razorpages\\employee managment\\employee managment\\pages\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|solutionrelative:employee managment\\pages\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|c:\\users\\zotta\\projects\\qrcodeproject\\razorpages\\employee managment\\employee managment\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|solutionrelative:employee managment\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|c:\\users\\zotta\\projects\\qrcodeproject\\razorpages\\employee managment\\employee managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|solutionrelative:employee managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|c:\\users\\zotta\\projects\\qrcodeproject\\razorpages\\employee managment\\employee managment\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|solutionrelative:employee managment\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|c:\\users\\zotta\\projects\\qrcodeproject\\razorpages\\employee managment\\employee managment\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|solutionrelative:employee managment\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|c:\\users\\zotta\\projects\\qrcodeproject\\razorpages\\employee managment\\employee managment\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|solutionrelative:employee managment\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|c:\\users\\zotta\\projects\\qrcodeproject\\razorpages\\employee managment\\employee managment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABFA9D75-601A-4892-9211-E44CA14FD97A}|Employee managment\\Employee managment.csproj|solutionrelative:employee managment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zotta\\Project\\Employee managment\\Employee managment\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Program.cs",
               "RelativeDocumentMoniker": "Employee managment\\Program.cs",
-              "ToolTip": "C:\\Users\\Zotta\\Project\\Employee managment\\Employee managment\\Program.cs*",
-              "RelativeToolTip": "Employee managment\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ToolTip": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Program.cs",
+              "RelativeToolTip": "Employee managment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T09:11:49.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Pages\\Employee.cshtml.cs",
+              "RelativeDocumentMoniker": "Employee managment\\Pages\\Employee.cshtml.cs",
+              "ToolTip": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Pages\\Employee.cshtml.cs",
+              "RelativeToolTip": "Employee managment\\Pages\\Employee.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:40:56.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Pages\\Employee.cshtml",
+              "RelativeDocumentMoniker": "Employee managment\\Pages\\Employee.cshtml",
+              "ToolTip": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Pages\\Employee.cshtml",
+              "RelativeToolTip": "Employee managment\\Pages\\Employee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T09:40:46.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Employee managment\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Employee managment\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T09:41:18.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Employee managment\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Models\\Person.cs",
+              "RelativeToolTip": "Employee managment\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:39:20.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Employee managment\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Employee managment\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:47:14.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Employee managment\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Employee managment\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T09:41:21.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Employee managment\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Employee managment\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T09:22:23.239Z",
               "EditorCaption": ""
             }
           ]

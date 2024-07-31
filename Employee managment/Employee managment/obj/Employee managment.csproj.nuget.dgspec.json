@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zotta\\Project\\Employee managment\\Employee managment\\Employee managment.csproj": {}
+    "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Employee managment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zotta\\Project\\Employee managment\\Employee managment\\Employee managment.csproj": {
+    "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Employee managment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zotta\\Project\\Employee managment\\Employee managment\\Employee managment.csproj",
+        "projectUniqueName": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Employee managment.csproj",
         "projectName": "Employee managment",
-        "projectPath": "C:\\Users\\Zotta\\Project\\Employee managment\\Employee managment\\Employee managment.csproj",
+        "projectPath": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\Employee managment.csproj",
         "packagesPath": "C:\\Users\\Zotta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zotta\\Project\\Employee managment\\Employee managment\\obj\\",
+        "outputPath": "C:\\Users\\Zotta\\Projects\\QrCodeProject\\RazorPages\\Employee managment\\Employee managment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
